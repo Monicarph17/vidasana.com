@@ -1,2 +1,2 @@
-# http-www.vidasana.com-
+# vidasana.com
 Es una página creada del curso diseño web
